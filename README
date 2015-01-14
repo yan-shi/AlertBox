@@ -1,9 +1,9 @@
-h1. Ext.ux.Alert
+Yan Shi - ExtJS 4 Alert Box
+============================
 
-p. A closable alert box for ExtJS 4 apps.
+<p>A closable alert box for ExtJS 4 apps</p>
 
-h2. Usage
+Usage
+============================
 
-p. In your application file, please add:
-
-p. Ext.Loader.setConfig({enabled: true});
+<p>In your application file, please add: <i>Ext.Loader.setConfig({enabled: true})</i></p>
