@@ -1,0 +1,9 @@
+h1. Ext.ux.Alert
+
+p. A closable alert box for ExtJS 4 apps.
+
+h2. Usage
+
+p. In your application file, please add:
+
+p. Ext.Loader.setConfig({enabled: true});
